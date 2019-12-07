@@ -1,0 +1,7 @@
+movie_path: /mnt/lilnas/movies
+movie_exts: 
+  - "*.avi"
+  - "*.mp4"
+  - "*.m4v"
+  - "*.mkv"
+total: true
