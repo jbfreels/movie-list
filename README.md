@@ -20,4 +20,3 @@ I keep all my files sorted as `MOVIE NAME (YEAR).ext` in a single folder.  This 
   * do subtitles exist
   * get subtitles?  Not sure I'll incorporate this year as I have another project in the works to manage media.
 * output format
-* config.yml

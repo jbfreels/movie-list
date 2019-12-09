@@ -5,3 +5,6 @@ movie_exts:
   - "*.m4v"
   - "*.mkv"
 total: true
+sort:
+  enabled: true
+  reverse: false

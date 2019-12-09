@@ -5,6 +5,7 @@ class Config:
   movie_path = ""
   movie_exts = ""
   total = False
+  sort = {}
 
   def __init__ (self, path="config.yml"):
     with open ("config.yml", 'r') as yml:

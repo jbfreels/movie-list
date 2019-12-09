@@ -20,6 +20,9 @@ def get_movies ():
 if __name__ == '__main__':
   movies = get_movies ()
 
+  if config.sort['enabled']:
+    movies.sort (key=lambda x: x.displayname, reverse=config.sort['reverse'])
+
   for movie in movies:
     print ("{}: {}".format (movie.displayname, movie.year))
 
