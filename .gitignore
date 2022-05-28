@@ -1,2 +1,6 @@
 try.py
 __pycache__
+.isort.cfg
+.trunk
+.flake8
+.markdownlint.yaml
